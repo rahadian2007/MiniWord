@@ -1,1 +1,2 @@
-Buka file MiniWord.HTML di browser. 
+Cara menggunakan: 
+Buka file MiniWord.html di browser
